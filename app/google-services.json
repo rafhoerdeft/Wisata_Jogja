@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "512979846978",
+    "firebase_url": "https://wisatajogja-a4e57.firebaseio.com",
+    "project_id": "wisatajogja-a4e57",
+    "storage_bucket": "wisatajogja-a4e57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512979846978:android:5f9d33ec2f05d35e",
+        "android_client_info": {
+          "package_name": "com.example.bayu.wisata_jogja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "512979846978-0nolcr8am2ks4md5k7k0ddnt96p62jgo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bayu.wisata_jogja",
+            "certificate_hash": "78f0a84e7ee7f7c0c445584dbfa4d1231193f768"
+          }
+        },
+        {
+          "client_id": "512979846978-0nqabfefbepsqpjlcu36djm3rnpmn6jl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjIXd91nEmVtxkPyU2INTGnxVT676onfU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "512979846978-0nqabfefbepsqpjlcu36djm3rnpmn6jl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
